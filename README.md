@@ -1,4 +1,6 @@
 # ASL-Website-Code
+I'm afraid due to resource constraints I can only supply the code not the already trained model or dataset. It is with deep regret that I say this is all I can present.
+
 The code for the website w/ instructions on how to set it up and get it running. The Frontend and flask implementation is vibe-coded using the Qoder IDE. While the actual optimizations and training is Partially Hand-coded.
 
 # Introductory Knowledge

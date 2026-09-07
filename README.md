@@ -18,7 +18,7 @@ A Webcam
 
 # Instructions
 *Highest priority*
-Run the Data collection script and follow the instructions
+Run the Data collection script and follow the instructions make sure the images are accurate for each word and make sure the lighting and clothes and different objects are different. 
 
 Then Just Copy each file and save them in your workspace
 Run the training script and wait until it finishes
